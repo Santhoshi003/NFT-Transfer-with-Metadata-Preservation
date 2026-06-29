@@ -1,0 +1,4 @@
+2026-06-29T08:20:09.211Z Starting transfer tokenId=1 from=avalanche-fuji to=arbitrum-sepolia receiver=0x0000000000000000000000000000000000000000
+2026-06-29T08:20:09.223Z ERROR Missing RPC URL in environment
+2026-06-29T08:24:45.262Z Starting transfer tokenId=1 from=avalanche-fuji to=arbitrum-sepolia receiver=0x0000000000000000000000000000000000000000
+2026-06-29T08:24:45.267Z ERROR Missing RPC URL in environment

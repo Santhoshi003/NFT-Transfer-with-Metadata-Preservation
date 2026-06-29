@@ -1,0 +1,12 @@
+{
+  "name": "ccip-nft-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "transfer": "node cli/transfer.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.14.0"
+  }
+}
